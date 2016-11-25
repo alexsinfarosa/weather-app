@@ -1,3 +1,3 @@
-# Simple weather app
+# Simple weather app built in Node.js
 
-## Practicing using Promises, axios
+## Practicing with Promises, axios, yargs
